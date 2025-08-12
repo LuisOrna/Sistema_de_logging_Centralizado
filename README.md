@@ -4,6 +4,8 @@ El proyecto esta enfocado a la creacion de un sistema de loggins centralizado, e
 Para un mejor entendimiento y viasualizacion se puede ver:
 [Esquema y diagrama de flujo del proyecto](https://miro.com/app/board/uXjVJXKt1LQ=/?share_link_id=670224869519&shareablePresentation=1 "Este enlace te lleva a una presentación en MIRO")  
 
+https://github.com/LuisOrna/Sistema_de_logging_Centralizado/blob/main/base%20de%20datos.jpg
+
 
 
 ### Archivos
