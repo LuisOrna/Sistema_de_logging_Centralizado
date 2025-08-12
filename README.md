@@ -4,8 +4,12 @@ El proyecto esta enfocado a la creacion de un sistema de loggins centralizado, e
 Para un mejor entendimiento y viasualizacion se puede ver:
 [Esquema y diagrama de flujo del proyecto](https://miro.com/app/board/uXjVJXKt1LQ=/?share_link_id=670224869519&shareablePresentation=1 "Este enlace te lleva a una presentación en MIRO")  
 
-https://github.com/LuisOrna/Sistema_de_logging_Centralizado/blob/main/base%20de%20datos.jpg
 
+Algunas imagnes del funcionamiento del proyecto:
+
+![Sistema de Logging Distribuido](https://raw.githubusercontent.com/LuisOrna/Sistema_de_logging_Centralizado/main/Sistema%20de%20Logging%20Distribuido.jpg)
+![Flujo de Servidor](https://raw.githubusercontent.com/LuisOrna/Sistema_de_logging_Centralizado/main/flujo%20de%20servidor.jpg)
+![Base de Datos](https://raw.githubusercontent.com/LuisOrna/Sistema_de_logging_Centralizado/main/base%20de%20datos.jpg)
 
 
 ### Archivos
